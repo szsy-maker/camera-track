@@ -3,8 +3,8 @@ python
 <html>
 
 <body>
-数据处理<p color:red;fredfont-size:20px;>opencv，numpy，mediapipe,pickle,socket</p>
-驱动<p color:red;fredfont-size:20px;>GPIO<p>
+<p style="font-family:color:red;fredfont-size:20px;>数据处理opencv，numpy，mediapipe,pickle,socket</p>
+<p style="font-family:color:red;fredfont-size:20px;>驱动GPIO</p>
 </body>
 
 </html>
